@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+*.db
+*.sqlite3
+backend/models/*.joblib
+
+# Node
+node_modules/
+dist/
+
+# Environment
+.env
